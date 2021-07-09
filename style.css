@@ -1,0 +1,12 @@
+body{
+text-align: center;
+background-color: cyan;
+}
+
+img:hover{
+transform: scale(1.2);
+}
+
+img{
+width: 300px;
+}
